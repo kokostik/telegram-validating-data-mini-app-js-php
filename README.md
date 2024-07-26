@@ -2,7 +2,7 @@
 
 <p>Please edit the "validation.php" file before use.</p>
 <br/>
-<p>You need to add your bot_token in the line:</p>
+<p>You need to add your <b>bot_token</b> in the line:</p>
 <br/>
 <code>// "core/validation.php"</code>
 <br/><br/>
