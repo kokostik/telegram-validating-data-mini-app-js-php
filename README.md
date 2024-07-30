@@ -1,4 +1,4 @@
-<h2>[en] Validating data received via the Mini App.</h2>
+<h2>[en] Verification of user data obtained through the mini-app.</h2>
 
 <p>Please edit the "validation.php" file before use.</p>
 <br/>
