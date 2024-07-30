@@ -8,6 +8,7 @@
 <br/><br/>
 <pre> $botToken = 'YOU TOKEN'; </pre>
 
+<p> About script: <a href="https://www.youtube.com/watch?v=0j1mttdL14A">YouTube</a>
 
 <h2>[ru] Проверка данных, полученных через мини-приложение.</h2>
 
@@ -18,3 +19,5 @@
 <code>// "core/validation.php"</code>
 <br/><br/>
 <pre> $botToken = 'ВАШ ТОКЕН'; </pre>
+
+<p> О скрипте: <a href="https://www.youtube.com/watch?v=oYLLNQpQnyg">YouTube</a>
